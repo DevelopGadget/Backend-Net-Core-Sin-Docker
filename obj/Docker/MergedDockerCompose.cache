@@ -1,0 +1,11 @@
+services:
+  web:
+    build:
+      context: C:\Users\FernanPro18\Desktop\Web-Api
+      dockerfile: Dockerfile
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+    image: web
+    ports:
+    - 80/tcp
+version: '3.0'
