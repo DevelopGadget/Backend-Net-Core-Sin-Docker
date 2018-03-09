@@ -16,15 +16,13 @@ namespace Web.Models
         [Required]
         public string sPosicion { get; set; }
         [Required]
-        public string sEquipo { get; set; }
+        public EquipoModel sEquipo { get; set; }
         [Required]
         public string sNacionalidad { get; set; }
          [Required]
         public string uNacionalidad { get; set; }
         
-        public JugadoresModel(string sNombre, int sEdad, 
-                            string  sPosicion, string sEquipo, 
-                            string sNacionalidad, string uNacionalidad){
+        public JugadoresModel(string sNombre, int sEdad, string  sPosicion, EquipoModel sEquipo, string sNacionalidad, string uNacionalidad){
 
            this.sNombre = sNombre;
            this.sEdad = sEdad;

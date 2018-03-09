@@ -1,5 +1,5 @@
-C:\Users\FernanPro18\Desktop\Web-Api
+C:\Users\FernanPro18\Desktop\Web Api Sin Docker
 --output-path=obj\Release\netcoreapp2.0\
 --application-name=Web
---content-root=C:\Users\FernanPro18\Desktop\Web-Api
+--content-root=C:\Users\FernanPro18\Desktop\Web Api Sin Docker
 --file=
