@@ -42,3 +42,14 @@ C:\Users\FernanPro18\Desktop\Web-Api\obj\Debug\netcoreapp2.0\Web.AssemblyInfoInp
 C:\Users\FernanPro18\Desktop\Web-Api\obj\Debug\netcoreapp2.0\Web.AssemblyInfo.cs
 C:\Users\FernanPro18\Desktop\Web-Api\obj\Debug\netcoreapp2.0\Web.dll
 C:\Users\FernanPro18\Desktop\Web-Api\obj\Debug\netcoreapp2.0\Web.pdb
+C:\Users\FernanPro18\Desktop\Web-Api-Sin-Docker\bin\Debug\netcoreapp2.0\Web.deps.json
+C:\Users\FernanPro18\Desktop\Web-Api-Sin-Docker\bin\Debug\netcoreapp2.0\Web.runtimeconfig.json
+C:\Users\FernanPro18\Desktop\Web-Api-Sin-Docker\bin\Debug\netcoreapp2.0\Web.runtimeconfig.dev.json
+C:\Users\FernanPro18\Desktop\Web-Api-Sin-Docker\bin\Debug\netcoreapp2.0\Web.dll
+C:\Users\FernanPro18\Desktop\Web-Api-Sin-Docker\bin\Debug\netcoreapp2.0\Web.pdb
+C:\Users\FernanPro18\Desktop\Web-Api-Sin-Docker\obj\Debug\netcoreapp2.0\Web.csprojResolveAssemblyReference.cache
+C:\Users\FernanPro18\Desktop\Web-Api-Sin-Docker\obj\Debug\netcoreapp2.0\Web.csproj.CoreCompileInputs.cache
+C:\Users\FernanPro18\Desktop\Web-Api-Sin-Docker\obj\Debug\netcoreapp2.0\Web.AssemblyInfoInputs.cache
+C:\Users\FernanPro18\Desktop\Web-Api-Sin-Docker\obj\Debug\netcoreapp2.0\Web.AssemblyInfo.cs
+C:\Users\FernanPro18\Desktop\Web-Api-Sin-Docker\obj\Debug\netcoreapp2.0\Web.dll
+C:\Users\FernanPro18\Desktop\Web-Api-Sin-Docker\obj\Debug\netcoreapp2.0\Web.pdb
