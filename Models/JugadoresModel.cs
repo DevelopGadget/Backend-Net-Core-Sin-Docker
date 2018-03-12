@@ -14,7 +14,7 @@ namespace Web.Models
         [Required]
         public string sNombre { get; set; }
         [Required]
-        public int sEdad { get; set; }
+        public int iEdad { get; set; }
         [Required]
         public string sPosicion { get; set; }
         [Required]
