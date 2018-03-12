@@ -26,10 +26,10 @@ namespace Web.Models
         [Required]
         public string uJugador { get; set; }
         
-        public JugadoresModel(string sNombre, int sEdad, string  sPosicion, EquipoModel sEquipo, string sNacionalidad, string uNacionalidad, string uJugador){
+        public JugadoresModel(string sNombre, int iEdad, string  sPosicion, EquipoModel sEquipo, string sNacionalidad, string uNacionalidad, string uJugador){
 
            this.sNombre = sNombre.ToUpper();
-           this.sEdad = sEdad;
+           this.iEdad = iEdad;
            this.sPosicion = sPosicion.ToUpper();
            this.sEquipo = sEquipo;                     
            this.sNacionalidad = sNacionalidad.ToUpper();
